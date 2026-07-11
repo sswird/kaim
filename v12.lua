@@ -1,8 +1,16 @@
 -- ==============================================================================
---  KAIM v12
---  - Obsidian UI (no Rayfield)
---  - Sirius Sense ESP (self-hosted)
---  - Single-Lock Aimbot | Zero-Bridge Drawing | Global Ray Cache
+--       :::    :::           :::        :::::::::::         :::   ::: 
+--      :+:   :+:          :+: :+:          :+:            :+:+: :+:+: 
+--     +:+  +:+          +:+   +:+         +:+           +:+ +:+:+ +:+ 
+--    +#++:++          +#++:++#++:        +#+           +#+  +:+  +#+  
+--   +#+  +#+         +#+     +#+        +#+           +#+       +#+   
+--  #+#   #+#        #+#     #+#        #+#           #+#       #+#    
+-- ###    ###       ###     ###    ###########       ###       ###     
+--                           [ V12 ]
+-- ==============================================================================
+--  • Obsidian UI (no Rayfield)
+--  • Sirius Sense ESP (self-hosted)
+--  • Single-Lock Aimbot | Zero-Bridge Drawing | Global Ray Cache
 -- ==============================================================================
 task.spawn(function()
 local ok, err = xpcall(function()
