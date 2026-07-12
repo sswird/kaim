@@ -1,7 +1,7 @@
 # kaim
 main repo
 
-latest functions that are added 
+latest functions that are added for v12
 + silent aim (silent aim doesnt support low unc executors)
 + target hud redesign
 + esp optimization for big lobbys
